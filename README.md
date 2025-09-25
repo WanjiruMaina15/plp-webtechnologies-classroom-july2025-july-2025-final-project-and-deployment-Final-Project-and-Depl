@@ -1,90 +1,130 @@
-# 📦 Final Assignment: Build, Organize, and Deploy a Multipage Website
+CENTRORX - Online Medical Representative Platform
+🌟 Overview
+CENTRORX is a modern web platform that serves as an online medical representative, connecting healthcare professionals with pharmaceutical products and services through a user-friendly digital interface.
 
-You're now ready to bring everything together—HTML, CSS, JavaScript, planning, structure, and deployment. This final project challenges you to **conceptualize, build, and deploy a multi-page website** that is responsive, interactive, and ready for the real world.
+🚀 Features
+Core Services
+Drug Information: Detailed pharmaceutical product information including indications, dosages, and side effects
 
-This assignment will guide you from planning your site all the way to deploying it online. Let’s make your project *production-worthy*! 🚀
+CME & Conferences: Access to continuing medical education events and conference schedules
 
----
+Medical Advancements: Latest medical information and research data
 
-## 🌐🎯 Part 1: Planning and Organizing a Multipage Website
+Product Ordering: Direct pharmaceutical product ordering with doorstep delivery
 
-Before you write any code, take time to plan:
+User Experience
+Responsive design that works on all devices
 
-* Define your website's purpose (portfolio, product showcase, blog, etc.)
-* Outline 3–5 pages (e.g., Home, About, Services, Contact, Gallery)
-* Sketch or describe the layout of each page
-* Map out internal navigation (how pages link to one another)
+Simple authentication system (login/signup)
 
-**Goal:** Show intentional structure and user journey across the site.
+Clean, professional healthcare-themed interface
 
----
+Easy navigation with smooth scrolling sections
 
-## 🌍💻 Part 2: Build the Website Using HTML5, CSS, and JavaScript
+Subscription Model
+Free trial option for new users
 
-Using your plan, begin building:
+Premium subscription access via IntaSend payment integration
 
-* Use HTML5 for semantic structure
-* Apply CSS for responsive layout, styling, and animations
-* Use JavaScript to add interactivity (menus, forms, toggles, dynamic content)
+Tiered service levels for different user needs
 
-Each page should:
+🛠️ Technical Stack
+Frontend
+HTML5 with semantic structure
 
-* Be mobile-responsive
-* Share a consistent layout/header/footer
-* Include at least one interactive element (e.g., form validation, toggle menu, animation on scroll)
+CSS3 with modern styling and gradients
 
-**Goal:** Integrate everything you’ve learned in a cohesive, functioning project.
+JavaScript for interactive functionality
 
----
+Font Awesome for icons
 
-## 🛠️🚀 Part 3: Best Practices for Code Organization
+IntaSend for payment processing
 
-Before deployment, refactor your project to follow production-friendly practices:
+Design Features
+Blue healthcare-themed color scheme (#003366, #007bff, #e6f0fa)
 
-* Organize files in folders (`/css`, `/js`, `/images`, etc.)
-* Write clean, modular, and commented code
-* Use meaningful file names and relative paths
-* Validate your HTML/CSS and test on different screen sizes
+Responsive grid layout for services
 
-**Goal:** Prepare your codebase to be readable, maintainable, and scalable.
+Hero section with gradient overlay
 
----
+Card-based service presentations
 
-## 🌐🚀 Part 4: Introduction to Hosting and Deployment
+Professional typography and spacing
 
-Once your project is complete, choose a method to **host your site online**.
+📁 File Structure
+text
+project/
+├── index.html          # Main application file
+├── style.css           # All styling and responsive design
+├── script.js           # Interactive functionality
+├── images/             # Service and background images
+│   ├── pexels-pixabay-161688.jpg
+│   ├── freepik_assistant_1758816393276.png
+│   ├── freepik_assistant_1758815875315.png
+│   └── pexels-ivan-samkov-7620568.jpg
+🎯 Target Audience
+Healthcare professionals (doctors, clinicians, pharmacists)
 
-You can use:
+Medical researchers and students
 
-* **GitHub Pages** (great for portfolios and static sites)
-* **Netlify** (powerful CI/CD features and easy form support)
-* **Vercel** (lightning-fast deployment for frontend projects)
+Pharmaceutical company representatives
 
-Deploy your project and confirm that:
+Healthcare institutions
 
-* All links and scripts work
-* It loads properly on mobile and desktop
-* It has a clear, shareable URL
+💡 Mission
+Provide easy access to high-quality pharmaceutical products and services
 
-**Goal:** Publish your work online and make it accessible to the world.
+Enhance patient care through reliable service delivery
 
----
+Foster strong healthcare provider-pharmaceutical company relationships
 
-## Deliverables
+Continuously improve based on user feedback and industry trends
 
-1. A GitHub repository containing:
+🔧 Setup Instructions
+Clone or download the project files
 
-   * Your complete project code, properly organized
-   * A `README.md` file explaining your project purpose, structure, and live URL
-2. A live deployed website (hosted via GitHub Pages, Netlify, or Vercel)
+Ensure all images are in the correct directory
 
----
+Open index.html in a web browser
 
-## Outcome
+No server required - works as static files
 
-* Clarity and thoroughness of planning documentation
-* Proper use of HTML5, CSS, and JavaScript across multiple pages
-* Responsive and accessible design
-* Clean, well-organized, and commented code
-* Successful live deployment with a working link
-* Evidence of following best practices
+📱 Responsive Design
+The platform is fully responsive and optimized for:
+
+Desktop computers
+
+Tablets
+
+Mobile phones
+
+Various screen sizes and orientations
+
+🔒 Security Features
+Client-side form validation
+
+Secure payment integration via IntaSend
+
+Input sanitization for user data
+
+🌐 Browser Compatibility
+Chrome (latest)
+
+Firefox (latest)
+
+Safari (latest)
+
+Edge (latest)
+
+📞 Contact Information
+Email: info@karmaitech.com
+
+Phone: +254713854865
+
+Social Media: Instagram, LinkedIn integration
+
+👥 Development Team
+Designed with ❤️ by KarMai Tech
+
+CENTRORX - Revolutionizing healthcare connections through digital innovation
+
